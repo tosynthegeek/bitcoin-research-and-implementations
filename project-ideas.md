@@ -13,6 +13,22 @@ Understand the [full specs of the Engine API]() and rebuild it in Rust
 
 - [The Execution APIs spec](https://github.com/ethereum/execution-apis/tree/main/src/engine)
 
+## Build and contribute to an Ethereum Client in Rust
+
+#### Overview
+
+Understand the [full specs of the Ethereum execution and consensus]() and rebuild it in Rust
+
+#### Helpful resource
+
+- [Building Helios: Fully trustless access to Ethereum](https://a16zcrypto.com/posts/article/building-helios-ethereum-light-client/)
+
+- [The Execution specs](https://github.com/ethereum/execution-specs)
+
+- [The consensus specs](https://github.com/ethereum/execution-specs)
+
+- [Ethereum code line by line in Reth](https://www.youtube.com/watch?v=gPQ-uXj03iQ)
+
 ## FuzzyVM in Rust using Reth
 
 #### Helpful resource
