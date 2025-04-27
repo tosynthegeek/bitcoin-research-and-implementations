@@ -16,6 +16,8 @@
 
   [Upgrading Ethereum](https://eth2book.info/capella/)
 
+  [EthPandaOps Projects](https://github.com/ethpandaops)
+
 - Rollups
 
 - Linux
