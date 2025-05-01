@@ -24,6 +24,10 @@
 
   [Complete intro to Linux and the CLI](https://btholt.github.io/complete-intro-to-linux-and-the-cli/what-will-you-learn)
 
+- Networking
+
+[Chorus One approch to operating nodes](https://handbook.chorus.one/introduction.html)
+
 # Rust
 
 - [Tokio Docs](https://tokio.rs/tokio/tutorial)
