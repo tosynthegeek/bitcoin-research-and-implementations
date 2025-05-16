@@ -63,9 +63,9 @@ Understand what the portal client does and contribute to it
 
 - Nethermind
 
-- Reth
+- [Reth](https://github.com/paradigmxyz/reth)
 
-- Lighthouse
+- [Lighthouse](https://github.com/sigp/lighthouse)
 
 - [Sigp](https://github.com/sigp/anchor)
 
