@@ -28,6 +28,20 @@
 
 [Chorus One approch to operating nodes](https://handbook.chorus.one/introduction.html)
 
+- Bitcoin
+
+- [Learn Bitcoin](https://learnmeabitcoin.com/)
+
+- [Bit VM Club](https://www.bitvm.club/)
+
+- [Bit Vm](https://bitvm.org/)
+
+- [BIPs](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki)
+
+- [Opcodes](https://opcodeexplained.com/opcodes/OP_0.html)
+
+- [Scripts](https://opcodeexplained.com/script/script_basics.html)
+
 # Rust
 
 - [Tokio Docs](https://tokio.rs/tokio/tutorial)
