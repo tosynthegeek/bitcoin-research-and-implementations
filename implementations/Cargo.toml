@@ -1,0 +1,14 @@
+[workspace]
+members = [
+    "interacting",
+    "scripts",
+    "mining"
+]
+resolver = "2"
+
+[workspace.dependencies]
+bitcoincore-rpc = "0.19.0"
+bitcoin = "0.32.6"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+hex = "0.4.3"
