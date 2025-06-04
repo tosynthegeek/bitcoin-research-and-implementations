@@ -1,7 +1,9 @@
 use std::str::FromStr;
 
 use bitcoin::{
-    absolute::LockTime, key::Secp256k1, secp256k1::SecretKey, sighash::SighashCache, transaction::Version, Address, Amount, EcdsaSighashType, Network, PrivateKey, Script, ScriptBuf, TxIn, TxOut, Txid, Witness
+    Address, Amount, EcdsaSighashType, Network, PrivateKey, Script, ScriptBuf, TxIn, TxOut, Txid,
+    Witness, absolute::LockTime, key::Secp256k1, secp256k1::SecretKey, sighash::SighashCache,
+    transaction::Version,
 };
 use bitcoincore_rpc::{Auth, Client, RpcApi};
 use serde::Deserialize;
