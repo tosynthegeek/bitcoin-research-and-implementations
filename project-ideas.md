@@ -70,3 +70,15 @@ Understand what the portal client does and contribute to it
 - [Sigp](https://github.com/sigp/anchor)
 
 - [Trin](https://github.com/ethereum/trin/issues?page=2)
+
+### Bitcoin Open Source
+
+https://github.com/stratum-mining/stratum/issues
+
+https://github.com/pool2win
+
+https://github.com/BitVM
+
+https://github.com/lightningdevkit
+
+Bitcoin scripts in Rust with test
